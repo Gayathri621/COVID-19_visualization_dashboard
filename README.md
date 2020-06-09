@@ -5,17 +5,17 @@ The plots were made using Python visualization libraries in Jupyter Notebook.To 
 ## How to view the dashboard?
 
 **Installation**
-Install Voilà using
-  pip install voila
+Install Voilà using <br>
+  pip install voila<br>
   pip install voila-material
 
-**Clone the repository**
+**Clone the repository**<br>
 https://github.com/Gayathri621/COVID-19_visualization_dashboard.git
 
-**Access the folder**
-cd <folder name>
+**Access the folder**<br>
+cd *folder name*
 
-**To view the dashboard**
+**To view the dashboard**<br>
 voila dashboard.ipynb --theme=dark --template=material
 
-The app will run on the default browser after the plots are loaded.
+The app will run on the default browser after the plots are loaded.By default Voilà runs at localhost:8866
