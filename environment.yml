@@ -1,0 +1,14 @@
+ 
+name: required-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - seaborn
+  - textblob
+  - matplotlib
+  - wordcloud
+  - pandas
+  - re
+  - scipy
+  
