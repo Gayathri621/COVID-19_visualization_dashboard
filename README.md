@@ -20,5 +20,10 @@ voila dashboard.ipynb --theme=dark --template=material
 
 The app will run on the default browser after the plots are loaded.By default Voilà runs at localhost:8866.
 
+**Loading page**
+![alt text](https://github.com/Gayathri621/COVID-19_visualization_dashboard/blob/master/images/Screenshot%20from%202020-06-09%2021-30-51.png?raw=true)
 
+**Images of app**
+![alt text](https://github.com/Gayathri621/COVID-19_visualization_dashboard/blob/master/images/Screenshot%20from%202020-06-09%2021-31-16.png?raw=true)
 
+![alt text](https://github.com/Gayathri621/COVID-19_visualization_dashboard/blob/master/images/Screenshot%20from%202020-06-09%2021-32-04.png?raw=true)
