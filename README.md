@@ -4,7 +4,7 @@ The plots were made using Python visualization libraries in Jupyter Notebook.To 
 
 ## How to view the dashboard?
 
-**Installation**
+**Installation**<br>
 Install Voilà using <br>
   pip install voila<br>
   pip install voila-material
