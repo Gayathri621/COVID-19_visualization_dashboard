@@ -9,6 +9,5 @@ dependencies:
   - matplotlib
   - wordcloud
   - pandas
-  - re
   - scipy
   
